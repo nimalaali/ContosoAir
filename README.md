@@ -1,5 +1,6 @@
 # This project is retired, archived, and no longer supported. You are welcome to continue to use and fork the repository.
 
+[![Build Status](https://dev.azure.com/ESDC-Interop-Dev/ADF-Demo/_apis/build/status/nimalaali.ContosoAir?branchName=master)](https://dev.azure.com/ESDC-Interop-Dev/ADF-Demo/_build/latest?definitionId=22&branchName=master)
 
 # Microsoft.Github CI Demo
 
